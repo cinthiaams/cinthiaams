@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Cinthia Morais
 
+- I'm a Data Engineer at CTW
 - Student of Systems Analysis and Development
-- interested in Data Analysys
-- SQL, Python, PowerBI, Shell, Linux and Git
+- SQL, AWS, Shell, Linux, Python and Git
 
 
 ### ✨ My Certifications
